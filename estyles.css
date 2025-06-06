@@ -1,0 +1,263 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e3f6f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* --- HEADER --- */
+header {
+  background-color: #222;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 8px 12px;
+  background-color: #0a9396;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #94d2bd;
+  color: black;
+}
+
+header h1 {
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+header img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  margin: 0 auto;
+}
+
+/* --- SECCIONES --- */
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #005f73;
+}
+
+/* Sobre mí */
+.sobre-mi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.sobre-mi p {
+  max-width: 500px;
+  font-size: 1.1rem;
+}
+
+/* Imagenes */
+section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  transition: transform 0.3s ease;
+}
+
+section img:hover {
+  transform: scale(1.05);
+}
+
+/* Tecnologías */
+.tecnologias {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.tecnologias img {
+  width: 80px;
+}
+
+/* Lista de habilidades */
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .sobre-mi {
+    flex-direction: column;
+  }
+
+  nav a {
+    display: inline-block;
+    margin: 10px 5px;
+  }
+
+  .tecnologias img {
+    width: 60px;
+  }
+}
+
+/* --- CONTACTO --- */
+#Contacto {
+  background-color: #f0f0f0;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#Contacto h2 {
+  color: #0a9396;
+}
+
+.contacto {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.contacto a {
+  text-decoration: none;
+  background-color: #0a9396;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.contacto a i {
+  margin-right: 8px;
+}
+
+.contacto a:hover {
+  background-color: #007f7f;
+  transform: scale(1.05);
+}
+
+#FormularioContacto {
+  background-color: #ffffff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#FormularioContacto h2 {
+  color: #0a9396;
+  margin-bottom: 10px;
+}
+
+#FormularioContacto form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+#FormularioContacto input,
+#FormularioContacto textarea {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+#FormularioContacto button {
+  background-color: #0a9396;
+  color: white;
+  padding: 12px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#FormularioContacto button:hover {
+  background-color: #007f7f;
+}
+
+#estado-envio {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.proyecto {
+  text-align: center;
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.proyecto img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.proyecto h3 {
+  color: teal;
+  margin-top: 10px;
+}
+
+.proyecto p {
+  font-size: 1rem;
+  color: #333;
+}
+
+.proyecto a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: teal;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.proyecto a:hover {
+  background-color: #006666;
+}
+
+
+
