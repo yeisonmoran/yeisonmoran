@@ -1,4 +1,4 @@
-<h1 text="center">Mi portafolio</h1>
+<h1 ling="center">Mi portafolio</h1>
 
 
 
