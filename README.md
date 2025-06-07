@@ -1,2 +1,4 @@
-<h1 line="center">Mi portafolio</h1>
+<h1 text="center">Mi portafolio</h1>
+
+
 
