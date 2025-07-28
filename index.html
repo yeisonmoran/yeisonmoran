@@ -1,115 +1,168 @@
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Yeison Moran</title>
-    <link rel="stylesheet" href="estyles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="estyles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
     <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
-</head>
+  </head>
 
-<body>
-
+  <body>
     <header>
-        <nav>
-            <a href="#Sobre-mi">Sobre mí</a>
-            <a href="#Tecnologias">Tecnologías</a>
-            <a href="#Mis-proyectos">Proyectos</a>
-            <a href="#Habilidades">Habilidades</a>
-        </nav>
+      <nav>
+        <a href="#Sobre-mi">Sobre mí</a>
+        <a href="#Tecnologias">Tecnologías</a>
+        <a href="#Mis-proyectos">Proyectos</a>
+        <a href="#Habilidades">Habilidades</a>
+      </nav>
 
-        <div class="intro">
-            <h1>Hola, soy Yeison Stiven Lara Moran</h1>
-            <img src="img/portada.png" alt="Portada del perfil">
-        </div>
+      <div class="intro">
+        <h1>Hey, soy Yeison Stiven Lara Moran</h1>
+        <img src="img/portada.png" alt="Portada del perfil" />
+      </div>
     </header>
 
     <section id="FormularioContacto">
-        <h2>Escríbeme</h2>
-        <p>¿Tienes alguna pregunta o propuesta? ¡Contáctame!</p>
+      <h2>Escríbeme</h2>
+      <p>¿Tienes alguna pregunta o propuesta? ¡Contáctame!</p>
 
-        <form id="contact-form">
-            <input type="text" id="nombre" name="user_name" placeholder="Tu nombre" required>
-            <input type="email" id="email" name="user_email" placeholder="Tu correo" required>
-            <textarea id="mensaje" name="message" placeholder="Tu mensaje" required></textarea>
-            <button type="submit">Enviar mensaje</button>
-        </form>
+      <form id="contact-form">
+        <input
+          type="text"
+          id="nombre"
+          name="user_name"
+          placeholder="Tu nombre"
+          required
+        />
+        <input
+          type="email"
+          id="email"
+          name="user_email"
+          placeholder="Tu correo"
+          required
+        />
+        <textarea
+          id="mensaje"
+          name="message"
+          placeholder="Tu mensaje"
+          required
+        ></textarea>
+        <button type="submit">Enviar mensaje</button>
+      </form>
 
-        <p id="estado-envio"></p>
+      <p id="estado-envio"></p>
     </section>
-
 
     <main>
-        <section id="Sobre-mi">
-            <h2>Sobre mí</h2>
-            <div class="sobre-mi">
-                <p>
-                    Soy una persona apasionada por la programación. En mis tiempos libres me dedico a estudiar para
-                    cumplir mi sueño de ser un desarrollador profesional.
-                </p>
-                <img src="img/software.png" alt="Imagen de desarrollo">
-            </div>
-        </section>
+      <section id="Sobre-mi">
+        <h2>Sobre mí</h2>
+        <div class="sobre-mi">
+          <p>
+            Tecnólogo en formación en Sistemas de Información, con experiencia
+            en soporte técnico presencial y remoto, administración de usuarios
+            en Active Directory, gestión de incidencias, configuración de redes
+            y actualización de inventario de equipos mediante GLPI y
+            FusionInventory. Proactivo, orientado al servicio, con capacidad
+            para resolver problemas rápidamente y documentar procesos.
+            Comprometido con el aprendizaje continuo y el trabajo en equipo.
+          </p>
+          <img src="img/software.png" alt="Imagen de desarrollo" />
+        </div>
+      </section>
 
-        <section id="Tecnologias">
-            <h2>Tecnologías</h2>
-            <div class="tecnologias">
-                <img src="img/icone-html.png" alt="HTML">
-                <img src="img/icone-css.png" alt="CSS">
-                <img src="img/icone-nodejs.png" alt="NodeJS">
-                <img src="img/icone-mysql.png" alt="MySQL">
-                <img src="img/icone-javascript.png" alt="JavaScript">
-            </div>
-        </section>
+      <section id="Tecnologias">
+        <h2>Tecnologías</h2>
+        <div class="tecnologias">
+          <img src="img/icone-html.png" alt="HTML" />
+          <img src="img/icone-css.png" alt="CSS" />
+          <img src="img/icone-nodejs.png" alt="NodeJS" />
+          <img src="img/icone-mysql.png" alt="MySQL" />
+          <img src="img/icone-javascript.png" alt="JavaScript" />
+        </div>
+      </section>
 
-        <section id="Mis-proyectos">
-            <h2>Mis proyectos</h2>
+      <section id="Mis-proyectos">
+        <h2>Mis proyectos</h2>
 
-            <div class="proyecto">
-                <img src="img/mis_proyectos/calculator.png" alt="Calculadora" width="300" />
-                <h3>Calculadora Básica</h3>
-                <p>Proyecto desarrollado en HTML, CSS y JavaScript. Permite realizar operaciones básicas.</p>
-                <a href="proyectos/calculadora/index.html" target="_blank">Ver proyecto</a>
-            </div>
-        </section>
+        <div class="proyecto">
+          <img
+            src="img/mis_proyectos/calculator.png"
+            alt="Calculadora"
+            width="300"
+          />
+          <h3>Calculadora Básica</h3>
+          <p>
+            Proyecto desarrollado en HTML, CSS y JavaScript. Permite realizar
+            operaciones básicas.
+          </p>
+          <a href="proyectos/calculadora/index.html" target="_blank"
+            >Ver proyecto</a
+          >
+        </div>
+      </section>
 
-        <section id="Habilidades">
-            <h2>Habilidades</h2>
-            <ul>
-                <li>Frontend: HTML5, CSS, JavaScript.</li>
-                <li>Backend: Node.js, Express.js</li>
-                <li>Bases de datos: MySQL, SQL (básico)</li>
-                <li>Versionamiento: Git, GitHub</li>
-                <li>Diseño responsive: Flexbox, Grid, Media Queries</li>
-                <li>Herramientas: VS Code, Postman, npm</li>
-                <li>Idiomas: Inglés básico (en proceso de aprendizaje)</li>
-            </ul>
-        </section>
+      <section id="Habilidades">
+        <h2>Habilidades de Desarrrollador</h2>
+        <ul>
+          <li>Frontend: HTML5, CSS, JavaScript.</li>
+          <li>Backend: Node.js, Express.js</li>
+          <li>Bases de datos: MySQL, SQL (básico)</li>
+          <li>Versionamiento: Git, GitHub</li>
+          <li>Diseño responsive: Flexbox, Grid, Media Queries</li>
+          <li>Herramientas: VS Code, Postman, npm</li>
+          <li>Idiomas: Inglés básico (en proceso de aprendizaje)</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Habilidades de Soporte Tecnico</h2>
+        <ul>
+          <li>
+            Soporte y redes: Active Directory, Exchange Admin Center, Fortinet,
+            Sophos, redes IP, LAN/WAN, electricidad básica.
+          </li>
+          <li>
+            Inventario y mesa de ayuda: GLPI, FusionInventory, Mantis, Daruma,
+            RealVNC.
+          </li>
+          <li>
+            Sistemas operativos: Windows 10/11, Linux (Ubuntu), MacOS. -
+            Virtualización y productividad: VMware, Microsoft 365 (Teams,
+            Exchange, Office)
+          </li>
+        </ul>
+      </section>
     </main>
     <section id="Contacto">
-        <h2>Contacto</h2>
-        <p>¡Gracias por visitar mi portafolio! Puedes contactarme o ver más de mi trabajo en:</p>
+      <h2>Contacto</h2>
+      <p>
+        ¡Gracias por visitar mi portafolio! Puedes contactarme o ver más de mi
+        trabajo en:
+      </p>
 
-        <div class="contacto">
-            <a href="https://github.com/yeisonmoran" target="_blank">
-                <i class="fab fa-github"></i> GitHub
-            </a>
+      <div class="contacto">
+        <a href="https://github.com/yeisonmoran" target="_blank">
+          <i class="fab fa-github"></i> GitHub
+        </a>
 
-            <a href="https://www.linkedin.com/in/yeison-stiven-lara-moran-613a9922b/" target="_blank">
-                <i class="fab fa-linkedin"></i> LinkedIn
-            </a>
+        <a
+          href="https://www.linkedin.com/in/yeison-stiven-lara-moran-613a9922b/"
+          target="_blank"
+        >
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
 
-            <a href="docs/YeisonMoran_CV.pdf" download>
-                <i class="fas fa-file-download"></i> Descargar CV
-            </a>
-        </div>
+        <a href="docs/YeisonMoran_CV.pdf" download>
+          <i class="fas fa-file-download"></i> Descargar CV
+        </a>
+      </div>
     </section>
 
-
     <script src="javaS.js"></script>
-
-</body>
-
+  </body>
 </html>
