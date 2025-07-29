@@ -1,0 +1,70 @@
+/* Fondo general */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #2e3a59;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Contenedor de la calculadora */
+#formulario {
+  background-color: #883235;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  width: 300px;
+  color: white;
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+/* Etiquetas */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Botones */
+button {
+  width: 45%;
+  padding: 12px;
+  margin: 5px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #4a90e2;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #357ABD;
+}
+
+/* Resultado */
+h2 {
+  text-align: center;
+  color: #4aff70;
+  margin-top: 20px;
+}
