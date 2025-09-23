@@ -1,10 +1,11 @@
-<h1 align="center">👋 Hola, soy Yeison Moran</h1>
----
+## <h1 align="center">👋 Hola, soy Yeison Moran</h1>
+
 <p align="center">
   <img src="https://github.com/yeisonmoran/yeisonmoran/blob/main/portada.png" alt="Banner de Yeison Moran">
 </p>
 
 ---
+
 <p align="center">
   📚 Estudiante de Tecnología en Sistemas de Información <br>
   💻 Apasionado por el Soporte Técnico, el Desarrollo Web y la Automatización <br>
@@ -24,7 +25,7 @@
 ## 💼 Experiencia
 
 - 🏢 **Agrícola Himalaya S.A.**  
-  _Practicante en el área de sistemas (1 año)_  
+  _Practicante en el área de sistemas (1 año)_
   - Gestión de inventario de equipos
   - Soporte técnico a usuarios
   - Administración de red, dominio y Active Directory
@@ -54,8 +55,8 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** moranyeison522@gmail.com  
-- 🌐 **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yeison-stiven-lara-moran-613a9922b/)  
+- ✉️ **Correo:** moranyeison522@gmail.com
+- 🌐 **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yeison-stiven-lara-moran-613a9922b/)
 - 💻 **GitHub:** [github.com/yeisonmoran](https://github.com/yeisonmoran)
 
 ---
@@ -63,4 +64,3 @@
 <p align="center">
   ¡Gracias por visitar mi perfil! 😊
 </p>
-
