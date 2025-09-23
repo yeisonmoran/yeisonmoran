@@ -45,9 +45,9 @@ header h1 {
 }
 
 header img {
-  max-width: 100%;
+  max-width: 18%;
   height: auto;
-  border-radius: 20px;
+  border-radius: 100px 50%;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   margin: 0 auto;
 }
