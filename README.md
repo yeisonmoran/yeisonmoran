@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Yeison Moran</h1>
 ---
 <p align="center">
-  <img src="https://github.com/yeisonmoran/yeisonmoran/blob/main/fonfo.2.png" alt="Banner de Yeison Moran">
+  <img src="https://github.com/yeisonmoran/yeisonmoran/blob/main/Fondo.2.png" alt="Banner de Yeison Moran">
 </p>
 
 ---
