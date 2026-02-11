@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram id="FTjOGvTGd-3MCa8ER6mF" name="Página-1">
+    <mxGraphModel dx="1665" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-1" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Sistema de Gestion de Ventas By Marnin" vertex="1">
+          <mxGeometry height="460" width="440" x="194" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-12" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="OITBdPWpzdBodkkhs4Ow-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="150" />
+              <mxPoint x="680" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-17" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OITBdPWpzdBodkkhs4Ow-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="150" />
+              <mxPoint x="660" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-18" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OITBdPWpzdBodkkhs4Ow-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="150" />
+              <mxPoint x="700" y="370" />
+              <mxPoint x="390" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-20" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="OITBdPWpzdBodkkhs4Ow-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="150" />
+              <mxPoint x="720" y="460" />
+              <mxPoint x="370" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-21" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="OITBdPWpzdBodkkhs4Ow-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-24" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="OITBdPWpzdBodkkhs4Ow-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-25" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OITBdPWpzdBodkkhs4Ow-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="340" />
+              <mxPoint x="160" y="340" />
+              <mxPoint x="160" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Vendedor" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="gestionarProducto" vertex="1">
+          <mxGeometry height="70" width="140" x="440" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="registrarVentas" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="controlarInventarios" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="VerReportesBasicos" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="registrarUsuarios" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OITBdPWpzdBodkkhs4Ow-23" edge="1" parent="1" source="OITBdPWpzdBodkkhs4Ow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="OITBdPWpzdBodkkhs4Ow-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
