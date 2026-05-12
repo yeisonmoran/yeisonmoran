@@ -1,7 +1,7 @@
 ## <h1 align="center">👋 Hola, soy Yeison Moran</h1>
 
 <p align="center">
-  <img src="portadaGitHub.png" alt="Banner de Yeison Moran">
+  <img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" alt="Banner de Yeison Moran">
 </p>
 
 ---
