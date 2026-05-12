@@ -7,29 +7,38 @@
 ---
 
 <p align="center">
-  📚 Estudiante de Tecnología en Sistemas de Información <br>
-  💻 Apasionado por el Soporte Técnico, el Desarrollo Web y la Automatización <br>
-  🚀 En constante aprendizaje de tecnologías modernas como HTML, CSS, JavaScript y Php
+ Tecnólogo en Sistemas de Información (7° semestre, UNIAJC) con 1 año de experiencia certificada en soporte
+ técnico presencial y remoto. Habilidades comprobadas en gestión de incidentes L1 mediante GLPI,
+ administración de usuarios en Active Directory, soporte en entornos Microsoft 365 y mantenimiento
+ preventivo/correctivo de equipos. Orientado a la resolución eficiente de problemas, con capacidad de trabajo
+ autónomo y rápida adaptación a nuevos entornos tecnológicos.
 </p>
 
 ---
 
 ## 📌 Sobre mí
 
-🎓 Actualmente estoy cursando el 7° semestre de la carrera de Tecnología en Sistemas.  
-🧠 Me interesa todo lo relacionado con redes, servidores, Active Directory y desarrollo web.  
-🔧 También tengo experiencia usando herramientas como GLPI, FusionInventory y Fortinet.
+Actualmente estoy cursando el 7° semestre de la carrera de Tecnología en Sistemas.  
+Me interesa todo lo relacionado con redes, servidores, Active Directory y desarrollo web.  
+También tengo experiencia usando herramientas como GLPI, FusionInventory y Fortinet.
 
 ---
 
 ## 💼 Experiencia
 
 - 🏢 **Agrícola Himalaya S.A.**  
-  _Practicante en el área de sistemas (1 año)_
-  - Gestión de inventario de equipos
-  - Soporte técnico a usuarios
-  - Administración de red, dominio y Active Directory
-  - Mantenimiento de software y hardware
+  _Practicante en el área de sistemas_
+  _Mayo 2024 – Mayo 2025 | Cali, Colombia | Presencial_
+  
+  - Gestioné más de 50 tickets mensuales en GLPI, logrando atención oportuna y cierre efectivo de incidentes
+    técnicos.
+  - Brindé soporte técnico presencial y remoto a +30 usuarios internos en hardware, software y conectividad
+    de red.
+  - Administré cuentas y permisos de usuarios en Active Directory y Microsoft 365 (Outlook, Teams).
+  - Diagnostiqué y resolví problemas de conectividad de red (IP, DNS, impresoras en red).
+  - Realicé instalación, configuración y mantenimiento preventivo/correctivo de equipos de cómputo y
+    periféricos.
+  - Mantuve actualizado el inventario tecnológico de equipos asignados en la organización.
 
 ---
 
@@ -46,7 +55,7 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** moranyeison522@gmail.com
+- ✉️ **Correo:** yeison.lara.ti@gmail.com
 - 🌐 **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yemoran12/)
 - 💻 **GitHub:** [github.com/yeisonmoran](https://github.com/yeisonmoran)
 
