@@ -1,4 +1,5 @@
-## <h1 align="center">👋 Hola, soy Yeison Moran</h1>
+# <h1 align="center">Yeison Lara</h1>
+## Desarrollador Backend Junior | Tecnólogo en Sistemas
 
 <p align="center">
   <img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" alt="Banner de Yeison Moran">
@@ -6,39 +7,9 @@
 
 ---
 
-<p align="center">
- Tecnólogo en Sistemas de Información (7° semestre, UNIAJC) con 1 año de experiencia certificada en soporte
- técnico presencial y remoto. Habilidades comprobadas en gestión de incidentes L1 mediante GLPI,
- administración de usuarios en Active Directory, soporte en entornos Microsoft 365 y mantenimiento
- preventivo/correctivo de equipos. Orientado a la resolución eficiente de problemas, con capacidad de trabajo
- autónomo y rápida adaptación a nuevos entornos tecnológicos.
-</p>
+## Sobre mí
 
----
-
-## 📌 Sobre mí
-
-Actualmente estoy cursando el 7° semestre de la carrera de Tecnología en Sistemas.  
-Me interesa todo lo relacionado con redes, servidores, Active Directory y desarrollo web.  
-También tengo experiencia usando herramientas como GLPI, FusionInventory y Fortinet.
-
----
-
-## 💼 Experiencia
-
-- 🏢 **Agrícola Himalaya S.A.**  
-  _Practicante en el área de sistemas_
-  _Mayo 2024 – Mayo 2025 | Cali, Colombia | Presencial_
-  
-  - Gestioné más de 50 tickets mensuales en GLPI, logrando atención oportuna y cierre efectivo de incidentes
-    técnicos.
-  - Brindé soporte técnico presencial y remoto a +30 usuarios internos en hardware, software y conectividad
-    de red.
-  - Administré cuentas y permisos de usuarios en Active Directory y Microsoft 365 (Outlook, Teams).
-  - Diagnostiqué y resolví problemas de conectividad de red (IP, DNS, impresoras en red).
-  - Realicé instalación, configuración y mantenimiento preventivo/correctivo de equipos de cómputo y
-    periféricos.
-  - Mantuve actualizado el inventario tecnológico de equipos asignados en la organización.
+Desarrololador Backend Jr con conocimiento en aplicaciones web, consumo de API REST, base de datos MySQL, control de versiones con GIT, documento los procesos del proyecto, levanto requerimientos con las historias de usuarios para mantener la integridad y calidad durante el transcurso de desarrollo.   
 
 ---
 
@@ -55,12 +26,12 @@ También tengo experiencia usando herramientas como GLPI, FusionInventory y Fort
 
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** yeison.lara.ti@gmail.com
-- 🌐 **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yemoran12/)
-- 💻 **GitHub:** [github.com/yeisonmoran](https://github.com/yeisonmoran)
+- **Correo:** yeison.lara.ti@gmail.com
+- **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yemoran12/)
+- **GitHub:** [github.com/yeisonmoran](https://github.com/yeisonmoran)
 
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! 😊
+  ¡Gracias por visitar mi perfil! 
 </p>
