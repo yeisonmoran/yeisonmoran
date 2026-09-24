@@ -1,5 +1,5 @@
 # <h1 align="center">Yeison Lara</h1>
-## Desarrollador Backend Junior | Tecnólogo en Sistemas
+<h2 align="center">Desarrollador Backend Junior | Tecnólogo en Sistemas</h2>
 
 <p align="center">
   <img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" alt="Banner de Yeison Moran">
